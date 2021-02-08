@@ -1,6 +1,6 @@
 # Simple Banking System
 
-A simple project to learn how to work with JDBC and sqlite\
+A simple project to learn how to work with JDBC and sqlite.
 ## Run
 Use `-fileName pathToDatabase` arguments to specify file.
 ```
